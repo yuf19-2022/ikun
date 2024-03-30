@@ -20,7 +20,7 @@ _🦌 网页小游戏 🥛_
 |
 [线上版本](https://xingye.me/game/eatkano/index.php)
 | -->
-[Github Pages](https://yuf19-2022.github.io/ikun/index.html)
+[Github Pages](https://yuf19-2022.github.io/ikun/)
 
 ## 可选功能
 
